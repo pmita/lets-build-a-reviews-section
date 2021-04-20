@@ -1,5 +1,19 @@
 
+/*
+    Quick functional project that is very widely used in webpages. In this scenario
+    we need to display some review and the user the option to browse through different
+    reviews. Currently we are browsing over hard coded reviews, but this could easily be
+    amended for reviews coming from an api. Objects for this project are:
+    #Project the current review details onto the UI
+    #Give the user the optio to browse through the reviews (click next or previous)
+    #Update the UI accordingly
 
+    Remember to always apply clean code principles in every project you are making! Here are
+    some basic rules to have at the back of your mind:
+    #Leave commects whenever your code is doing something complicated
+    #Try giving your variables usefull names. Best if their name describes what they correspond to
+    #Re-factor your code once you get something done. Chances are you can make better
+*/
 
 /*-------------Gloabal Variables----------*/
 const allReviews = [
