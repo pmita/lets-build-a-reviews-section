@@ -19,28 +19,28 @@
 const allReviews = [
     {
         rating: '4/5 Stars',
-        reviewText: 'Test Example',
+        reviewText: 'Getting up everyday and having a meaningfu impact on the world through the work we are doing is something I could never change. This service has helped us achieve those goals',
         name: 'John Doe',
         occupation: 'Founder CEO',
         img: './img/img-1.jpg'
     },
     {
         rating: '5/5 Stars',
-        reviewText: 'Test Example 2',
+        reviewText: 'Creating pleasing and minimal designs for our customer project can be challenging. This service simply takes the unneccesary communicaitons out of the picture. Project done faster',
         name: 'Jane Doe',
         occupation: 'UX Lead Designer',
         img: './img/img-2.jpg'
     },
     {
         rating: '4/5 Stars',
-        reviewText: 'Test Example 3',
+        reviewText: 'We code, we drink coffee, we use this product',
         name: 'Susan Boil',
         occupation: 'Software Engineer II',
         img: './img/img-3.jpg'
     },
     {
         rating: '5/5 Stars',
-        reviewText: 'Test Example 4',
+        reviewText: 'How can we both make great product designs and also make sure our people are having fun creating them? We use this product',
         name: 'Luke Doe',
         occupation: 'Product Manager',
         img: './img/img-4.jpg'
